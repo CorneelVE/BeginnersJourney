@@ -1,7 +1,0 @@
--alleen vlaanderen nemen in verkeersongevallen 
-(want verkeersindicatoren slaan daarop) 
-
-aggregaat maken per maand/provincie
-eventueel ook weekends meetellen? is dubbel
-
-alleen vlaamse ongevallen nemen!!!
