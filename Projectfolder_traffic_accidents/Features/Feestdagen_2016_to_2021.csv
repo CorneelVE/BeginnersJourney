@@ -1,0 +1,37 @@
+﻿Date;description;weekday;weekend?
+01-Jan-16;Nieuwjaarsdag 2016;5;weekday
+27-Mar-16;Pasen 2016;7;weekend
+28-Mar-16;Paasmaandag 2016;1;weekday
+01-May-16;Feest van de Arbeid 2016;7;weekend
+05-May-16;Onze Lieve Heer Hemelvaart 2016;4;weekday
+15-May-16;Pinksteren (Pinksterdag) 2016;7;weekend
+16-May-16;Pinkstermaandag 2016;1;weekday
+21-Jul-16;Nationale Feestdag 2016;4;weekday
+15-Aug-16;Onze Lieve Vrouw Hemelvaart 2016;1;weekday
+01-Nov-16;Allerheiligen 2016;2;weekday
+01-Jan-17;Nieuwjaarsdag 2017;7;weekend
+16-Apr-17;Pasen 2017;7;weekend
+17-Apr-17;Paasmaandag 2017;1;weekday
+01-May-17;Feest van de Arbeid 2017;1;weekday
+25-May-17;Onze Lieve Heer Hemelvaart 2017;4;weekday
+04-Jun-17;Pinksteren (Pinksterdag) 2017;7;weekend
+05-Jun-17;Pinkstermaandag 2017;1;weekday
+21-Jul-17;Nationale Feestdag 2017;5;weekday
+15-Aug-17;Onze Lieve Vrouw Hemelvaart 2017;2;weekday
+01-Nov-17;Allerheiligen 2017;3;weekday
+11-Nov-17;Wapenstilstand W.O. I 2017;6;weekend
+25-Dec-17;Kerstmis 2017;1;weekday
+01-Jan-18;Nieuwjaarsdag 2018;1;weekday
+01-Apr-18;Pasen 2018;7;weekend
+02-Apr-18;Paasmaandag 2018;1;weekday
+01-May-18;Feest van de Arbeid 2018;2;weekday
+10-May-18;Onze Lieve Heer Hemelvaart 2018;4;weekday
+20-May-18;Pinksteren (Pinksterdag) 2018;7;weekend
+21-May-18;Pinkstermaandag 2018;1;weekday
+21-Jul-18;Nationale Feestdag 2018;6;weekend
+15-Aug-18;Onze Lieve Vrouw Hemelvaart 2018;3;weekday
+01-Nov-18;Allerheiligen 2018;4;weekday
+11-Nov-18;Wapenstilstand W.O. I 2018;7;weekend
+25-Dec-18;Kerstmis 2018;2;weekday
+26-Dec-18;Tweede Kerstdag 2018;3;weekday
+;;;
