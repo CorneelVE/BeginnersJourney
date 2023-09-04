@@ -1,4 +1,4 @@
-# BeginnersJourney
+# Project Traffic Analysis
 Personal projects - ML &amp; datascience basics
 
 1. Project Traffic Analysis
